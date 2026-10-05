@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">MRC</string>
+  <string name="title_activity_main">MRC</string>
+  <string name="custom_url_scheme">commeuappmrc</string>
+</resources>
